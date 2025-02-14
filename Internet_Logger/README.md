@@ -1,0 +1,1 @@
+https://www.tutorialspoint.com/how-to-check-whether-user-s-internet-is-on-or-off-using-python#:~:text=Using%20the%20ping%20command,-To%20check%20the&text=Using%20the%20subprocess%20module%2C%20we,system%20is%20connected%20to%20internet.
